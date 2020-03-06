@@ -924,7 +924,7 @@ th {
 .glyphicon-tent:before {
   content: "\26fa";
 }
-.glyphicon-blackboard:before {
+.glyphicon-rgba(255,255,255,0.9)board:before {
   content: "\e218";
 }
 .glyphicon-bed:before {
